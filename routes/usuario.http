@@ -1,0 +1,21 @@
+### crear usuario
+
+POST http://localhost:8000/api/users/new
+
+### ver usuarios
+
+GET http://localhost:8000/api/users/new
+
+### crear empresa
+
+POST http://localhost:8000/api/companies/new
+
+### ver empresas
+
+GET http://localhost:8000/api/companies/new
+
+### crear nuevo usuario y nueva empresa
+
+POST http://localhost:8000/api/user/company
+
+###
